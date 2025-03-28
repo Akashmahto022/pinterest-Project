@@ -2,7 +2,9 @@ import './app.css'
 
 const App = () => {
   return (
-    <div>Hello World</div>
+    <div>
+      <h1>hi This is akash mahto</h1>
+    </div>
   )
 }
 
