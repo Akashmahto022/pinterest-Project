@@ -10,14 +10,14 @@ const GalleryItem = ({ item }) => {
       <button className='saveButton'>Save</button>
       <div className='overlayIcons'>
         <button>
-          <img src="/general/share.svg" alt="" />
+          <img src="/general/share.svg" alt="image" />
         </button>
         <button>
-          <img src="/general/share.svg" alt="" />
+          <img src="/general/share.svg" alt="image" />
         </button>
       </div>
     </div >
   )
 }
 
-export default GalleryItem
+export default GalleryItem;
